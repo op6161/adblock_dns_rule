@@ -1,0 +1,38 @@
+! Title: LINE list
+! Version: 1.0,0
+! Homepage: https://github.com/op6161/adblock_dns_rule
+! date: 2025.10.16
+
+
+||search.line.me^
+||fortune-liff.line-apps.com^
+||profile.line-scdn.net^
+||aax-us-pdx.amazom-adsystem.com^
+||aax-us.amazom-adsystem.com^
+||torimochi.line-apps.com^
+||cix.line-apps.com^
+||ci.line-apps.com^
+||static.line-scdn.net^
+||vos.line-scdn.net^
+||appresource.line-scdn.net^
+||d.line-scdn.net^
+||nelo2-col.linecorp.com^
+||adns2.line.naver.com^
+||adns1.line.naver.com^
+||ns1.line.naver.jp^
+||ns2.line.naver.jp^
+||gs2x.line.naver.jp^
+||gs2.line.naver.jp^
+||ga2.line.naver.jp^
+||ap-click.tr.line.me^
+||crs-event.line.me^
+||sch.line.me^
+||gw.line.naver^
+||voom-assets.line-scdn.net^
+||im.c.ymig.jp^
+||ap-click.tr.line.me^
+||apm.yahoo.jp^
+||slim01.jp^$important
+||filebaselogging-pa.googleapis.com^$important
+||ly.my.sentry^$important
+||clients6.google.com^$important

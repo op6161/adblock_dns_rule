@@ -1,0 +1,17 @@
+! from: https://github.com/minimal-enginner/LINE-Ad-BlockList/blob/main/LINE-Ad-BlockList.txt
+! Title: LINE_COPY list
+! Version: 1.0
+! Homepage: https://github.com/op6161/adblock_dns_rule
+! date: 2025.10.16
+
+||im.c.yimg.jp^
+||a.line.me^
+||obs.line-scdn.net^
+||gw.line.naver.jp^
+||ad.line-scdn.net^
+||scdn.line-apps.com^
+||linevoom.line.me^
+||voom-assets.line-scdn.net^
+||voom-obs.line-scdn.net^
+||ch-news.line-apps.com^
+||square-api.line.me^

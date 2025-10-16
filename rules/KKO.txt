@@ -1,0 +1,11 @@
+! Title: KKO list
+! Version: 1.0.0
+! Homepage: https://github.com/op6161/adblock_dns_rule
+! date: 2025.10.16
+
+# shortforms shortform short shorts 쇼츠 숏폼 틱톡
+||play.kakao.com^
+||shortformstats.kakao.com^
+
+# shopping shop 쇼핑 샵 숍
+||shopper.kakao.com^

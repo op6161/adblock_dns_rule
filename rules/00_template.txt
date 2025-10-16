@@ -1,0 +1,12 @@
+! Title: template list
+! Version: 1.0
+! Homepage: https://github.com/op6161/adblock_dns_rule
+! date: 20XX.01.01
+
+#list1
+
+#list2
+
+#list3
+
+#list4
