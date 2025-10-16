@@ -1,0 +1,1 @@
+# adblock_dns_rule
