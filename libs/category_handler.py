@@ -3,9 +3,8 @@
 # 키(key)가 표준 이름이 되며, 값(value)은 해당 표준 이름으로 인식될 별칭들의 리스트입니다.
 CATEGORY_ALIASES = {
     # 표준이름: [별칭1, 별칭2, ...]
-    'google': ['구글', 'rnrmf', 'google.com'],
-    'naver': ['네이버', 'spdlqj', 'naver.com'],
-    'daum': ['다음', 'ekdna', 'daum.net'],
+    'kakao': ['kakao', '카카오', '카톡'],
+    'line': ['라인', 'line', 'LINE'],
     'spam': ['스팸'],
     'security': ['보안'],
     'malware': ['멀웨어', '악성코드'],
