@@ -1,0 +1,1 @@
+0 */6 * * * /usr/bin/python3 /path/to/your/project/rule/scripts/update_lists.py
