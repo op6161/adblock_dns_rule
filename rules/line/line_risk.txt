@@ -1,5 +1,5 @@
 ! Title: LINE_risk list
-! Version: 1.0,0
+! Version: 1.0.0
 ! Homepage: https://github.com/op6161/adblock_dns_rule
 ! date: 2025.10.16
 
